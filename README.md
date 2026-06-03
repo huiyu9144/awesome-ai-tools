@@ -302,7 +302,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Manifest](https://github.com/mnfst/manifest) - An alternative to Supabase for AI Code editors and Vibe Coding tools
 - [DataPup](https://github.com/DataPupOrg/DataPup) - Database client with AI-powered query assistance to generate context based queries.
 - [Gito](https://github.com/Nayjest/Gito) - AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
-- [Huiyu-Pi](https://github.com/huiyu9144/Huiyu-Pi) - Local-first AI coding agent with pure Web UI, ~80 token system prompt, ~0.3s first token latency, and 90%+ lower cost. Self-hosted alternative to Claude Code/Codex CLI.
+- [Huiyu-Pi](https://github.com/huiyu9144/Huiyu-Pi) - Open-source local-first AI coding agent with pure Web UI, ~80 token system prompt, ~0.3s first token latency, and 90%+ lower cost. Free self-hosted alternative to Claude Code/Codex CLI.
 
 
 ## Image
